@@ -1,13 +1,9 @@
 
-#  BMI Calculator
+#  Bill Splitter
 
-A Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+Bill splitting, tip calculating app. No one can work out $145.56 split between 5 people with a 20 percent tip. With your very own Tipsy app in hand, you’ll never need to do maths ever again!
 
 
-* Creating multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* Formatting Strings. 
-* Color literals.
 
 ![form page](Documentation/formPage.png)
 ![result page](Documentation/resultPage.png)
